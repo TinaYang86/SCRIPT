@@ -20,5 +20,6 @@
 int main()
 {
   int a;
+  int b;
 retrun 0;
 }
